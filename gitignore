@@ -1,0 +1,8 @@
+# Build output
+student_records
+student_records.exe
+*.o
+*.out
+
+# Runtime data
+students.txt
